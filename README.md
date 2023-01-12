@@ -1,10 +1,5 @@
 # :book: alx-backend-storage.
 
-
-## :page_with_curl: Topics Covered.
-1. MySQL advanced.
-
-
 ## :wrench: Project setup.
 ```bash
 ## Install MySQL 5.7 in ubuntu
